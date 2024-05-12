@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "*.cs": "csharp",
+    "*.py": "python",
+    "button.h": "c"
+  }
+}
