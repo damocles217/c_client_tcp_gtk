@@ -1,5 +1,5 @@
 CC = gcc
-CFLAGS = -Wall -Wextra -I./src $(shell pkg-config --cflags gtk+-3.0 ) $(shell pkg-config --libs gtk+-3.0 )
+CFLAGS = -Wall -Wextra -I./src $(shell pkg-config --cflags gtk4 ) $(shell pkg-config --libs gtk4 )
 SRCDIR = src
 OBJDIR = obj
 BINDIR = bin

@@ -3,6 +3,6 @@
 
 #include <gtk/gtk.h>
 
-GtkWidget *generalButton();
+GtkWidget *generalButton(GtkCssProvider *buttonProvider);
 
 #endif
